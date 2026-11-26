@@ -1,3 +1,5 @@
+This is a fork of Arnab758/Heatsentry-Agents.
+
 # HeatSentry-OS: Autonomous Multi-Agent Urban Heat Resilience & Municipal Dispatch Mesh
 
 > **Transforming Hyperlocal 2-Meter Temperature Intelligence into Autonomous Physical Action, Life-Saving Municipal Coordination, and Power Grid Reliability.**
@@ -487,8 +489,8 @@ The HeatSentry Express/Node.js backend exposes high-performance REST endpoints:
 
 ```bash
 # 1. Clone the repository (or export from AI Studio / GitHub)
-git clone https://github.com/<YOUR_GITHUB_USERNAME>/heatsentry-os.git
-cd heatsentry-os
+git clone https://github.com/edkaydev/Heatsentry-Agents.git
+cd Heatsentry-Agents
 
 # 2. Install project dependencies
 npm install
